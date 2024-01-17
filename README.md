@@ -1,5 +1,9 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/https:![hi](https://github.com/SDPRAVINRAJ/SDPRAVINRAJ/assets/147632352/588e8cae-6ddc-44e7-85fa-a89c44bff455)
-www.google.com//hii.jpg" width="50px">, PRAVINRAJ here</h1>
+<h1 align="center"><img src="https://github.com/SDPRAVINRAJ/SDPRAVINRAJ/assets/147632352/cfede720-8630-49f9-8fb2-27eef77b984e/hii.png" width="30px">, PRAVINRAJ here</h1>
+
+
+
+https://github.com/SDPRAVINRAJ/SDPRAVINRAJ/assets/147632352/cfede720-8630-49f9-8fb2-27eef77b984e
+
 
 Hi, my name is <b>PRAVINRAJ A/L SIVABATHI</b>, <b><em>A Friend, Dude and Buddy From Earth</em></b> and I am 20 years old. I come from <em>Perak, Malaysia</em>. My hobby is playing chess. Plus, I also like to watch horror and thirller movies. I consider myself a friendly person, and I genuinely enjoy connecting with others.
 
