@@ -35,7 +35,7 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 <p align="left">
  <a href="https://www.facebook.com/profile.php?id=100065229035485&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/s.d.pravinraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/wernjie_/" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/pravinraj-sivabathi-4004b7298//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yong-wern-jie-0a5b90261" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/pravinraj-sivabathi-4004b7298//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pravinraj-sivabathi-4004b7298" height="30" width="40" /></a>
 THANK YOU FOR VISITING 😄😄😄
 
 </p>
