@@ -17,7 +17,7 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 
 |:house:| Slim River, Perak |
 |--|--|
-   | :books: |<p>High School :<pre>SMK Dato Zulkiffli Muhammad (SPM 9A)</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| :books: |<p>High School :<pre>SMK Dato Zulkiffli Muhammad (SPM 9A)</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 
 ## 💻 Tech Stack
 **Languages**  
