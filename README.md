@@ -1,10 +1,5 @@
 <h1 align="center"><img src="https://github.com/SDPRAVINRAJ/SDPRAVINRAJ/assets/147632352/cfede720-8630-49f9-8fb2-27eef77b984e/hii.png" width="30px">, PRAVINRAJ here</h1>
 
-
-
-https://github.com/SDPRAVINRAJ/SDPRAVINRAJ/assets/147632352/cfede720-8630-49f9-8fb2-27eef77b984e
-
-
 Hi, my name is <b>PRAVINRAJ A/L SIVABATHI</b>, <b><em>A Friend, Dude and Buddy From Earth</em></b> and I am 20 years old. I come from <em>Perak, Malaysia</em>. My hobby is playing chess. Plus, I also like to watch horror and thirller movies. I consider myself a friendly person, and I genuinely enjoy connecting with others.
 
 Currently, I'm a <b><mark>first-year student pursuing a degree in **[Computer Science in Data Engineering](https://comp.utm.my/secp/)** at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>. I chose this degree because I'm extremely interested in this field and want to gain as much knowledge as possible. I'm also attracted to the potential salary of this field and hope to learn everything I can both within and outside my degree in order to prepare for my future career.
