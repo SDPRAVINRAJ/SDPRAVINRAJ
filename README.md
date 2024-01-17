@@ -15,9 +15,12 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 - 📝 Learning SPECIAL TOPIC IN DATA ENGINEERING
 
 
-|:house:| Slim River, Perak |
+|:HOUSE:| Slim River, Perak |
 |--|--|
-| :books: |<p>High School :<pre>SMK Dato Zulkiffli Muhammad (SPM 9A)</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| :STUDIES: |<p>High School :<pre>SMK Dato Zulkiffli Muhammad (SPM 9A)</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| :LEADERSHIP SKILLS: |<p>High School : -President of Chess Club</p><p>         -Secretary of english club</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+
+
 
 ## 💻 Tech Stack
 **Languages**  
