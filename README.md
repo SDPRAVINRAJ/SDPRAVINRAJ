@@ -35,9 +35,10 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 <p align="left">
  <a href="https://www.facebook.com/profile.php?id=100065229035485&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/s.d.pravinraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/wernjie_/" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/pravinraj-sivabathi-4004b7298//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pravinraj-sivabathi-4004b7298" height="30" width="40" /></a>
-THANK YOU FOR VISITING 😄😄😄
+<a href="https://www.linkedin.com/in/pravinraj-sivabathi-4004b7298//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pravinraj-sivabathi-4004b7298" height="30" width="40" /></a>
+
 
 </p>
  <a href="mailto:s.d.pravinraj@gmail.com"><img src="https://img.shields.io/badge/s.d.pravinraj@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
-
+</p>
+<h1>THANK YOU FOR VISITING 😄😄😄</h1>
