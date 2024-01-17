@@ -10,21 +10,8 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 
 ### :man_technologist: About Me :
 
-- 📆 14/03/2004
-- 🏫 Study at University Technology Malaysia
-- 📝 Learning SPECIAL TOPIC IN DATA ENGINEERING
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-|Home🏡:| Slim River, Perak |
-|--------|--------|
-| ACADEMIC📖: |<p>High School :<pre>S (SPM 9A)</p></pre><p>College :<pre> Kolej Matrikulasi Perak(PNGK 4.00, MUET 4.00 </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| Leadership skills🏅:|<pre>🏀Basketball </p> </pre><p><pre>🏸Badminton </p>|
-| Hobbies☕: |<pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
-|:HOUSE:| Slim River, Perak |
-|--|--|
-| :STUDIES: |<p>High School :<pre>SMK Dato Zulkiffli Muhammad (SPM 9A)</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| :LEADERSHIP SKILLS: |<p>High School : -President of Chess Club</p><br>    -Secretary of english club</br></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 
 
 ## 💻 Tech Stack
@@ -39,13 +26,13 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 ##  Academic Source 🧑‍🎓 Assignment📝
--Technology and Information System -> Link to TIS (https://github.com/SDPRAVINRAJ/Technology-and-Information-System)
+-Technology and Information System -> [Link to TIS](https://github.com/SDPRAVINRAJ/Technology-and-Information-System)
 <br>
--Discrete Structure                -> [Link to DS (https://github.com/SDPRAVINRAJ/Discrete-Structure)
+-Discrete Structure                -> [Link to DS](https://github.com/SDPRAVINRAJ/Discrete-Structure)
 <br>
--Digital Logic                     -> Link to DL  (https://github.com/SDPRAVINRAJ/Digital-Logic)
+-Digital Logic                     -> [Link to DL ](https://github.com/SDPRAVINRAJ/Digital-Logic)
 <br>
--Programming Technique I           -> Link to PTI  (https://github.com/SDPRAVINRAJ/Programming-Technique-1)
+-Programming Technique I           -> [Link to PTI ](https://github.com/SDPRAVINRAJ/Programming-Technique-1)
 <br>
 
 ## 📫 How to reach me
