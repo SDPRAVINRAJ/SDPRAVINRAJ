@@ -39,11 +39,15 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-##  Academic Source 🧑‍🎓#Notes & Assignment📝
+##  Academic Source 🧑‍🎓 Assignment📝
 -Technology and Information System -> Link to TIS (https://github.com/SDPRAVINRAJ/Technology-and-Information-System)
+<br>
 -Discrete Structure                -> [Link to DS (https://github.com/SDPRAVINRAJ/Discrete-Structure)
+<br>
 -Digital Logic                     -> Link to DL  (https://github.com/SDPRAVINRAJ/Digital-Logic)
+<br>
 -Programming Technique I           -> Link to PTI  (https://github.com/SDPRAVINRAJ/Programming-Technique-1)
+<br>
 
 ## 📫 How to reach me
 <p align="left">
