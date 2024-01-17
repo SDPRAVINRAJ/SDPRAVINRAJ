@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🤠</h1>
+<h1 align="center">Hi there 😎</h1>
 
 Hi, my name is <b>PRAVINRAJ A/L SIVABATHI</b>, <b><em>A Friend, Dude and Buddy From Earth</em></b> and I am 20 years old. I come from <em>Perak, Malaysia</em>. My hobby is playing chess. Plus, I also like to watch horror and thirller movies. I consider myself a friendly person, and I genuinely enjoy connecting with others.
 
@@ -13,6 +13,11 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 - 📆 14/03/2004
 - 🏫 Study at University Technology Malaysia
 - 📝 Learning SPECIAL TOPIC IN DATA ENGINEERING
+
+
+|:house:| Slim River, Perak |
+|--|--|
+   | :books: |<p>High School :<pre>SMK Dato Zulkiffli Muhammad (SPM 9A)</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 
 ## 💻 Tech Stack
 **Languages**  
