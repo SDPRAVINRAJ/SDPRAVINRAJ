@@ -18,14 +18,13 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 |Home🏡:| Slim River, Perak |
 |--------|--------|
 | ACADEMIC📖: |<p>High School :<pre>S (SPM 9A)</p></pre><p>College :<pre> Kolej Matrikulasi Perak(PNGK 4.00, MUET 4.00 </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| Cerificates📚: |<p>SMK Taman Mount Austin :<pre>SPM 8A</p></pre><p>Kolej Matrikulasi Kejuruteraan Johor:<pre>PNGK 3.98</pre></p><p>Muet:<pre>4.00</pre>|
-| Sports🏅:|<pre>🏀Basketball </p> </pre><p><pre>🏸Badminton </p>|
+| Leadership skills🏅:|<pre>🏀Basketball </p> </pre><p><pre>🏸Badminton </p>|
 | Hobbies☕: |<pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
 |:HOUSE:| Slim River, Perak |
 |--|--|
 | :STUDIES: |<p>High School :<pre>SMK Dato Zulkiffli Muhammad (SPM 9A)</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
-| :LEADERSHIP SKILLS: |<p>High School : -President of Chess Club</p><p>         -Secretary of english club</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| :LEADERSHIP SKILLS: |<p>High School : -President of Chess Club</p><br>    -Secretary of english club</br></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 
 
 ## 💻 Tech Stack
