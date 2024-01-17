@@ -9,7 +9,7 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 
 
 ### :man_technologist: About Me :
-[MY VC](https:github.com/SDPRAVINRAJ/MYCV)
+[MY CV](https:github.com/SDPRAVINRAJ/MYCV)
 
 
 
