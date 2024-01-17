@@ -28,7 +28,6 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 | :LEADERSHIP SKILLS: |<p>High School : -President of Chess Club</p><p>         -Secretary of english club</p></pre><p>College :<pre> Perak Matriculation College (PNGK 4.00 , MUET 4.00)</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 
 
-
 ## 💻 Tech Stack
 **Languages**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,10 +40,10 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 ##  Academic Source 🧑‍🎓#Notes & Assignment📝
--Technology and Information System -> Link to TIS (
--Discrete Structure                -> [Link to DS (
--Digital Logic                     -> Link to DL  (
--Programming Technique I           -> Link to PTI  (
+-Technology and Information System -> Link to TIS (https://github.com/SDPRAVINRAJ/Technology-and-Information-System)
+-Discrete Structure                -> [Link to DS (https://github.com/SDPRAVINRAJ/Discrete-Structure)
+-Digital Logic                     -> Link to DL  (https://github.com/SDPRAVINRAJ/Digital-Logic)
+-Programming Technique I           -> Link to PTI  (https://github.com/SDPRAVINRAJ/Programming-Technique-1)
 
 ## 📫 How to reach me
 <p align="left">
