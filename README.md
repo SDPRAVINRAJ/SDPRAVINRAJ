@@ -8,8 +8,9 @@ Currently, I'm a <b><mark>first-year student pursuing a degree in **[Computer Sc
 Moreover, I also good in mathematics and , which ultimately led me to pursue a degree in computer science. I'm excited to see where this path takes me and am eager to continue exploring all the opportunities that come my way.
 
 
-### :man_technologist: About Me :
-(https://github.com/SDPRAVINRAJ/MYCV/blob/main/cv.pdf.pdf)
+### :man_technologist: 
+
+-MY CV -> [Link to CV ]()
 
 
 ## 💻 Tech Stack
