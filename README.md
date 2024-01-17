@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 😎</h1>
 
-Greetings everybody, this is <b>PRAVINRAJ A/L SIVABATHI</b>, <b></em></b> and I am 20 years old. I come from <em>Perak, Malaysia</em>. My hobby is playing chess. Plus, I also like to watch horror and thriller movies. I consider myself a friendly person, and I genuinely enjoy connecting with others.
+Greetings everybody, this is <b>PRAVINRAJ S/O SIVABATHI</b>, <b></em></b> and I am 20 years old. I come from <em>Perak, Malaysia</em>. My hobby is playing chess. Plus, I also like to watch horror and thriller movies. I consider myself a friendly person, and I genuinely enjoy connecting with others.
 
 Currently, I'm a <b><mark>first-year student pursuing a degree in **[Computer Science in Data Engineering](https://comp.utm.my/secp/)** at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>. I chose this degree because I'm extremely interested in this field and want to gain as much knowledge as possible. I'm also attracted to the potential salary of this field and hope to learn everything I can both within and outside my degree in order to prepare for my future career.
 
@@ -14,6 +14,13 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 - 🏫 Study at University Technology Malaysia
 - 📝 Learning SPECIAL TOPIC IN DATA ENGINEERING
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+|Home🏡:| Slim River, Perak |
+|--------|--------|
+| ACADEMIC📖: |<p>High School :<pre>S (SPM 9A)</p></pre><p>College :<pre> Kolej Matrikulasi Perak(PNGK 4.00, MUET 4.00 </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| Cerificates📚: |<p>SMK Taman Mount Austin :<pre>SPM 8A</p></pre><p>Kolej Matrikulasi Kejuruteraan Johor:<pre>PNGK 3.98</pre></p><p>Muet:<pre>4.00</pre>|
+| Sports🏅:|<pre>🏀Basketball </p> </pre><p><pre>🏸Badminton </p>|
+| Hobbies☕: |<pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
 |:HOUSE:| Slim River, Perak |
 |--|--|
@@ -33,6 +40,11 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
+##  Academic Source 🧑‍🎓#Notes & Assignment📝
+-Technology and Information System -> Link to TIS (
+-Discrete Structure                -> [Link to DS (
+-Digital Logic                     -> Link to DL  (
+-Programming Technique I           -> Link to PTI  (
 
 ## 📫 How to reach me
 <p align="left">
