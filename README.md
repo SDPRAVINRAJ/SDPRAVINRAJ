@@ -13,9 +13,13 @@ Moreover, I also good in mathematics and , which ultimately led me to pursue a d
 -MY CV -> [Link to CV ](https://github.com/SDPRAVINRAJ/MYCV)
 
 
-## 💻 Tech Stack
-**Languages**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ <h3>My programming skills 💻</h3>
+  <p align="left">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" height="50px" width="50px" align="center" alt="HTML">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" height="50px" width="50px" align="center" alt="CPP">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50px" width="50px" align="center" alt="Java">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="50px" width="50px" align="center" alt="R">
+  </p>
 
 **Tools**  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
