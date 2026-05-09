@@ -26,7 +26,7 @@ Third-year **Computer Science (Data Engineering)** student at Universiti Teknolo
 | Area | Skills |
 |---|---|
 | **Languages** | Python · SQL · Java · C++ · PHP |
-| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **Databases** | NoSql · MySQL · MongoDB |
 | **Data & Analytics** | ETL · Data Pipelines · Pandas · Scikit-learn · Power BI · Machine Learning |
 | **Cloud & Tools** | Microsoft Azure (DP-900) · AWS · Alteryx · GitHub · Jupyter Notebook |
 
@@ -35,7 +35,7 @@ Third-year **Computer Science (Data Engineering)** student at Universiti Teknolo
 ## Projects
 
 ### Customer Shopping Behavior Analysis
-`Python` `PostgreSQL` `Power BI` `Pandas`
+`Python` `MySQL` `Power BI` `Pandas`
 
 - Built an end-to-end ETL pipeline to extract, clean, and load **3,900 transactional records** into PostgreSQL for structured SQL analysis
 - Performed feature engineering: age group bins, purchase frequency columns, category-level median imputation for missing data
