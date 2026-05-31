@@ -1,100 +1,160 @@
-<div align="center">
+<!-- HEADER BANNER -->
 
-# Pravinraj Sivabathi
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:2563EB&text=Pravinraj%20Sivabathi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-**Data Engineering Student · PETRONAS Scholar · Aspiring Data Engineer**
+<h1 align="center">👋 Hello, I'm Pravinraj Sivabathi</h1>
 
-![Internship](https://img.shields.io/badge/Open%20to%20Internship-July%202026%20–%20Sep%202027-brightgreen?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Kuala%20Lumpur%20(relocating%20July%202026)-lightgrey?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-3.76%20%2F%204.00-blue?style=flat-square)
+<h3 align="center">
+🚀 Data Engineering Student | PETRONAS Scholar | Future Data Engineer
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravinraj%20Sivabathi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravinraj-sivabathi-4004b7298/)
-[![Email](https://img.shields.io/badge/Email-s.d.pravinraj%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.d.pravinraj@gmail.com)
+<p align="center">
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+ETL+Pipelines;Apache+Spark+%7C+PySpark+%7C+SQL;Data+Warehousing+Enthusiast;Transforming+Data+Into+Insights;Cloud+and+Big+Data+Learner" />
 
----
+</p>
 
-## About
-
-Third-year **Computer Science (Data Engineering)** student at Universiti Teknologi Malaysia (UTM) and **PETRONAS Scholar**. I build end-to-end data solutions — from ETL pipelines and NoSQL database design to machine learning models and analytical dashboards. Seeking a **1-year internship from July 2026 to September 2027** where I can apply data engineering principles to real production systems.
-
----
-
-## Technical Skills
-
-| Area | Skills |
-|---|---|
-| **Languages** | Python · SQL · Java · C++ · PHP |
-| **Databases** | NoSql · MySQL · MongoDB |
-| **Data & Analytics** | ETL · Data Pipelines · Pandas · Scikit-learn · Power BI · Machine Learning |
-| **Cloud & Tools** | Microsoft Azure (DP-900) · AWS · Alteryx · GitHub · Jupyter Notebook |
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+</p>
 
 ---
 
-## Projects
+# 💡 About Me
 
-### Customer Shopping Behavior Analysis
-`Python` `MySQL` `Power BI` `Pandas`
+🎓 Bachelor of Computer Science (Data Engineering)
 
-- Built an end-to-end ETL pipeline to extract, clean, and load **3,900 transactional records** into PostgreSQL for structured SQL analysis
-- Performed feature engineering: age group bins, purchase frequency columns, category-level median imputation for missing data
-- Wrote **10 SQL queries** covering revenue by gender, customer segmentation, and discount dependency analysis
-- Delivered a Power BI dashboard with KPIs across customer demographics, product categories, and subscription behavior
+🏫 Universiti Teknologi Malaysia (UTM)
 
----
+🏆 PETRONAS Scholar
 
-### Obesity Classification — Data Mining Project
-`Python` `Scikit-learn` `Pandas`
+📍 Malaysia
 
-- Preprocessed a **2,111-record** healthcare dataset: label encoding, one-hot consolidation, structured CSV export for downstream modeling
-- Trained and evaluated KNN, Naïve Bayes, and Decision Tree models across 7 obesity categories using a stratified 70:30 train-test split
-- Decision Tree achieved **92.43% accuracy**; identified Senior demographic class imbalance as a key limitation requiring SMOTE techniques
+I enjoy building scalable data solutions that transform raw datasets into meaningful insights through modern Data Engineering and Analytics technologies.
 
 ---
 
-### Event Management System — NoSQL Database
-`MongoDB`
+# 🛠 Tech Stack
 
-- Designed a **4-collection NoSQL data model** (users, events, registrations, sessions) with justified embed vs reference schema decisions
-- Implemented single-field and compound indexes on frequently queried fields to optimise read performance and data consistency
-- Built aggregation pipelines for total revenue, registration counts, and payment status summaries across **1,000+ simulated records**
+### Languages
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql" />
+</p>
 
-## Certifications
+### Data Engineering
 
-| Certification | Issuer | Year |
-|---|---|---|
-| Azure Data Fundamentals (DP-900) | Microsoft | 2026 |
-| Alteryx Designer Core Certification | Alteryx | 2026 |
-| Cloud Foundations Training Badge | Amazon Web Services | 2026 |
-| Skill2Work Data Centre Foundation Training | Microsoft | 2025 |
+| Technology | Skills |
+|------------|---------|
+| ⚡ Apache Spark | Distributed Data Processing |
+| 🔥 PySpark | Data Transformation |
+| 🏗 PostgreSQL | Data Warehousing |
+| 📦 Docker | Containerization |
+| 🗂 Parquet | Columnar Storage |
+| 🔄 ETL Pipelines | Data Integration |
+| ☁️ Databricks | Big Data Analytics |
 
----
+### Analytics & BI
 
-## Education
-
-| Qualification | Institution | Result | Year |
-|---|---|---|---|
-| Bachelor of CS (Data Engineering) | Universiti Teknologi Malaysia | CGPA 3.76 | 2023 – Present |
-| Malaysian Matriculation (Pure Science) | Kolej Matrikulasi Perak | CGPA 4.00 | 2022 – 2023 |
-| SPM | SMK Dato' Zulkiffli Muhammad | 9As (2A+ 5A 2A- 1B+) | 2022 |
-
----
-
-## Honors & Awards
-
-- 🏅 **PETRONAS Scholar** — Awarded for academic excellence and leadership potential *(Nov 2024 – Present)*
-- 🥇 **Gold Medal, DICE 3.0** — Digital Games Category, International Exhibition of Digital Innovation Creativepreneur *(Sep 2025)*
+| Tool | Purpose |
+|--------|---------|
+| 📊 Power BI | Interactive Dashboards |
+| 📈 Metabase | Business Intelligence |
+| 🗄 SQL | Data Analytics |
+| 📉 Reporting | Data Visualization |
 
 ---
 
-<div align="center">
+# 🚀 Featured Projects
 
-*Open to internship opportunities · July 2026 – September 2027*
+| Project | Technologies | Description |
+|----------|-------------|-------------|
+| 🇧🇷 Brazilian Education Census ETL Pipeline | Apache Spark, PySpark, PostgreSQL, Docker, Metabase | Processed ~2.2GB census dataset, transformed CSV into Parquet, and built a Star Schema warehouse for analytics |
+| 🌎 US Emissions Analytics Dashboard | Databricks SQL, Data Visualization | Analyzed 3,000+ US counties using geospatial and emissions datasets |
+| 🛒 Customer Shopping Behavior Analysis | MySQL, Power BI, Python | Generated business insights through SQL analytics and interactive dashboards |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravinraj-sivabathi-4004b7298/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.d.pravinraj@gmail.com)
+---
 
-</div>
+# 📚 Currently Exploring
+
+| Area | Focus |
+|--------|--------|
+| ☁️ Cloud Computing | AWS Services |
+| ⚡ Big Data | Spark Optimization |
+| 🏗 Data Architecture | Data Lakes & Warehouses |
+| 🔄 Data Pipelines | Modern ETL Practices |
+
+---
+
+# 🏆 Certifications
+
+| Certification | Provider |
+|--------------|----------|
+| Azure Data Fundamentals (DP-900) | Microsoft |
+| Alteryx Designer Core | Alteryx |
+| AWS Cloud Foundations | Amazon Web Services |
+| Data Centre Foundation Training | Skill2Work |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+✅ Complete Data Engineering Internship
+
+✅ Build End-to-End Data Platforms
+
+✅ Deepen Cloud & Big Data Expertise
+
+✅ Contribute to Open Source Projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:s.d.pravinraj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💻 "Turning raw data into meaningful insights."
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+</p>
