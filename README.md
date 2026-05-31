@@ -7,17 +7,15 @@
 <h1 align="center">👋 Hello, I'm Pravinraj Sivabathi</h1>
 
 <h3 align="center">
-🚀 Data Engineering Student | PETRONAS Scholar | Future Data Engineer
+🚀 Data Engineering Student | PETRONAS Scholar | Aspiring Data Engineer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+ETL+Pipelines;Apache+Spark+%7C+PySpark+%7C+SQL;Data+Warehousing+Enthusiast;Transforming+Data+Into+Insights;Cloud+and+Big+Data+Learner" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+Scalable+ETL+Pipelines;Apache+Spark+%7C+PySpark+%7C+SQL;Data+Warehousing+Enthusiast;Turning+Raw+Data+Into+Actionable+Insights;Cloud+and+Big+Data+Learner" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 </p>
 
 ---
@@ -32,13 +30,13 @@
 
 📍 Malaysia
 
-I enjoy building scalable data solutions that transform raw datasets into meaningful insights through modern Data Engineering and Analytics technologies.
+I am passionate about designing scalable data solutions and transforming raw data into meaningful insights. My interests lie in Data Engineering, Data Warehousing, Big Data Processing, Cloud Technologies, and Business Intelligence.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql" />
@@ -49,14 +47,14 @@ I enjoy building scalable data solutions that transform raw datasets into meanin
 | Technology | Skills |
 |------------|---------|
 | ⚡ Apache Spark | Distributed Data Processing |
-| 🔥 PySpark | Data Transformation |
+| 🔥 PySpark | Data Transformation & ETL |
 | 🏗 PostgreSQL | Data Warehousing |
 | 📦 Docker | Containerization |
-| 🗂 Parquet | Columnar Storage |
+| 🗂 Parquet | Optimized Data Storage |
 | 🔄 ETL Pipelines | Data Integration |
 | ☁️ Databricks | Big Data Analytics |
 
-### Analytics & BI
+### Analytics & Visualization
 
 | Tool | Purpose |
 |--------|---------|
@@ -65,15 +63,21 @@ I enjoy building scalable data solutions that transform raw datasets into meanin
 | 🗄 SQL | Data Analytics |
 | 📉 Reporting | Data Visualization |
 
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,github,docker,vscode" />
+</p>
+
 ---
 
 # 🚀 Featured Projects
 
-| Project | Technologies | Description |
-|----------|-------------|-------------|
-| 🇧🇷 Brazilian Education Census ETL Pipeline | Apache Spark, PySpark, PostgreSQL, Docker, Metabase | Processed ~2.2GB census dataset, transformed CSV into Parquet, and built a Star Schema warehouse for analytics |
-| 🌎 US Emissions Analytics Dashboard | Databricks SQL, Data Visualization | Analyzed 3,000+ US counties using geospatial and emissions datasets |
-| 🛒 Customer Shopping Behavior Analysis | MySQL, Power BI, Python | Generated business insights through SQL analytics and interactive dashboards |
+| Project | Technologies | Description | Repository |
+|----------|-------------|-------------|------------|
+| 🇧🇷 Brazilian Education Census ETL Pipeline | Apache Spark, PySpark, PostgreSQL, Docker, Metabase | Processed ~2.2GB census dataset, transformed raw CSV files into optimized Parquet format, and built a Star Schema warehouse for analytics and reporting | 🔗 Coming Soon |
+| 🌎 US Emissions Analytics Dashboard | Databricks SQL, Data Visualization | Analyzed emissions data across 3,000+ US counties using geospatial analytics and interactive dashboards to identify environmental trends | 🔗 Coming Soon |
+| 🛒 Customer Shopping Behavior Analysis | MySQL, Python, Power BI | Explored customer purchasing patterns and business performance through SQL analytics and interactive dashboards | 🔗 Coming Soon |
 
 ---
 
@@ -81,10 +85,11 @@ I enjoy building scalable data solutions that transform raw datasets into meanin
 
 | Area | Focus |
 |--------|--------|
-| ☁️ Cloud Computing | AWS Services |
-| ⚡ Big Data | Spark Optimization |
+| ☁️ Cloud Computing | AWS Services & Architecture |
+| ⚡ Big Data | Apache Spark Optimization |
 | 🏗 Data Architecture | Data Lakes & Warehouses |
 | 🔄 Data Pipelines | Modern ETL Practices |
+| 📊 Analytics | Advanced Dashboard Development |
 
 ---
 
@@ -93,48 +98,18 @@ I enjoy building scalable data solutions that transform raw datasets into meanin
 | Certification | Provider |
 |--------------|----------|
 | Azure Data Fundamentals (DP-900) | Microsoft |
-| Alteryx Designer Core | Alteryx |
+| Alteryx Designer Core Certification | Alteryx |
 | AWS Cloud Foundations | Amazon Web Services |
 | Data Centre Foundation Training | Skill2Work |
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎯 Goals for 2026
-
-✅ Complete Data Engineering Internship
-
-✅ Build End-to-End Data Platforms
-
-✅ Deepen Cloud & Big Data Expertise
-
-✅ Contribute to Open Source Projects
-
----
-
-# 🌐 Connect With Me
+# 📫 Contact Me
 
 <p align="center">
 
 <a href="mailto:s.d.pravinraj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
@@ -147,13 +122,19 @@ I enjoy building scalable data solutions that transform raw datasets into meanin
 
 </p>
 
----
-
 <p align="center">
 
-💻 "Turning raw data into meaningful insights."
+📍 Malaysia &nbsp; • &nbsp; 📧 s.d.pravinraj@gmail.com
 
 </p>
+
+---
+
+<div align="center">
+
+### 💻 "Turning raw data into meaningful insights."
+
+</div>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
