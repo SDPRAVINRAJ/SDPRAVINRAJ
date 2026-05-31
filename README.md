@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:2563EB&text=Pravinraj%20Sivabathi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:2563EB&text=PRAVINRAJ%20SIVABATHI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">👋 Hello, I'm Pravinraj Sivabathi</h1>
