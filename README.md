@@ -84,7 +84,6 @@ I am passionate about designing scalable data solutions and transforming raw dat
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
 </p>
----
 
 # 🚀 Featured Projects
 
@@ -118,16 +117,6 @@ I am passionate about designing scalable data solutions and transforming raw dat
 | Data Centre Foundation Training | Skill2Work |
 
 ---
-
-# 📄 Resume
-
-<p align="center">
-
-<a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
-<img src="https://img.shields.io/badge/View_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-</p>
 
 # 📫 Contact Me
 
