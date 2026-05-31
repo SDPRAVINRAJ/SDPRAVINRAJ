@@ -31,7 +31,7 @@ I am passionate about designing scalable data solutions and transforming raw dat
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,php,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,php,html,css,mysql" />
 </p>
 
 ### Data Engineering
@@ -52,15 +52,38 @@ I am passionate about designing scalable data solutions and transforming raw dat
 |--------|---------|
 | 📊 Power BI | Interactive Dashboards |
 | 📈 Metabase | Business Intelligence |
-| 🗄 SQL | Data Analytics |
+| 🗄 SQL Analytics | Data Analysis & Reporting |
+| 🐼 Pandas | Data Manipulation |
 | 📉 Reporting | Data Visualization |
+
 
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,github,docker,vscode" />
-</p>
 
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+</p>
 ---
 
 # 🚀 Featured Projects
@@ -95,6 +118,16 @@ I am passionate about designing scalable data solutions and transforming raw dat
 | Data Centre Foundation Training | Skill2Work |
 
 ---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
+<img src="https://img.shields.io/badge/View_Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
 
 # 📫 Contact Me
 
