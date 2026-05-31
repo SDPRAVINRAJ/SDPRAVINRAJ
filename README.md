@@ -11,10 +11,6 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+Scalable+ETL+Pipelines;Apache+Spark+%7C+PySpark+%7C+SQL;Data+Warehousing+Enthusiast;Turning+Raw+Data+Into+Actionable+Insights;Cloud+and+Big+Data+Learner" />
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2563EB&style=for-the-badge"/>
 </p>
 
@@ -112,19 +108,13 @@ I am passionate about designing scalable data solutions and transforming raw dat
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/pravinraj04/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SDPRAVINRAJ">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-📍 Malaysia &nbsp; • &nbsp; 📧 s.d.pravinraj@gmail.com
 
 </p>
 
