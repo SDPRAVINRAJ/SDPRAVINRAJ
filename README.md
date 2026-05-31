@@ -89,7 +89,7 @@ I am passionate about designing scalable data solutions and transforming raw dat
 
 | Project | Technologies | Description | Repository |
 |----------|-------------|-------------|------------|
-| 🇧🇷 Brazilian Education Census ETL Pipeline | Apache Spark, PySpark, PostgreSQL, Docker, Metabase | Processed ~2.2GB census dataset, transformed raw CSV files into optimized Parquet format, and built a Star Schema warehouse for analytics and reporting | 🔗 [Open](https://github.com/SDPRAVINRAJ/brazilian-school-census-etl-pipeline) |
+| 🇧🇷 Brazilian Education Census ETL Pipeline | Apache Spark, PySpark, PostgreSQL, Docker, Metabase | Processed ~2.2GB census dataset, transformed raw CSV files into optimized Parquet format, and built a Star Schema warehouse for analytics and reporting | [📂](https://github.com/SDPRAVINRAJ/brazilian-school-census-etl-pipeline) |
 | 🌎 US Emissions Analytics Dashboard | Databricks SQL, Data Visualization | Analyzed emissions data across 3,000+ US counties using geospatial analytics and interactive dashboards to identify environmental trends | 🔗 Coming Soon |
 | 🛒 Customer Shopping Behavior Analysis | MySQL, Python, Power BI | Explored customer purchasing patterns and business performance through SQL analytics and interactive dashboards | 🔗 Coming Soon |
 
