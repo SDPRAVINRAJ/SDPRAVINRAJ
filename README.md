@@ -10,10 +10,6 @@
 🚀 Data Engineering Student | PETRONAS Scholar | Aspiring Data Engineer
 </h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=2563EB&style=for-the-badge"/>
-</p>
-
 ---
 
 # 💡 About Me
