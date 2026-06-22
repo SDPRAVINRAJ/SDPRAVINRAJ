@@ -170,7 +170,10 @@ All semester coursework, assignments, lab work, and academic projects are organi
 | Azure Data Fundamentals (DP-900) | Microsoft |
 | Alteryx Designer Core Certification | Alteryx |
 | AWS Cloud Foundations | Amazon Web Services |
+| AWS Cloud Developing | Amazon Web Services |
 | Data Centre Foundation Training | Skill2Work |
+| SAP Analytics and SAP Builds Apps Training Session | SAP |
+
 
 ---
 
