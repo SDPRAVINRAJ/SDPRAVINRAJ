@@ -107,8 +107,8 @@ I am passionate about designing scalable data solutions and transforming raw dat
 |---|---|---|---|
 | 💰 UTMxHackathon'26 – Youth Resilience Challenge | GXBuddy – Your AI Financial Companion | Developed an AI-powered financial wellness platform that helps Malaysian youth build financial resilience through spending predictions, automated savings, gamification, and personalized financial insights integrated into digital banking experiences. | [![View Repository](https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SDPRAVINRAJ/UTM-X-HACKATHON-2026/tree/main) |
 | 🥗 MyVerse Challenge 2025 | SembangSihat – AI Nutrition Intelligence Platform | Developed an AI-powered wellness web application tailored to Malaysian food culture, featuring menu analysis, personalized health insights, community engagement, and gamified rewards to promote healthier lifestyle choices. | [![View Repository](https://img.shields.io/badge/View_Project-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SDPRAVINRAJ/sembangSIhat-webapp/tree/main) |
-| 📊 Data Science Challenge | Predictive Modeling Platform | Designed and evaluated machine learning workflows for predictive analytics tasks. | [![View Repository](https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white)](#) |
-| ⚙️ Technology Innovation Challenge | Smart Business Solution | Proposed a technology-driven solution focused on improving business operations and decision-making. | [![View Repository](https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white)](#) |
+| 📈 DOSM Datathon 2025 | DataKita – AI/ML Data Centre Talent Planning | Developed a workforce analytics and recommendation system to support Malaysia's Data Centre talent ecosystem through AI/ML, geospatial analytics, and Power BI dashboards. | [![View Repository](https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SDPRAVINRAJ/DataKita-AI-ML-Data-Centre-Talent-Planning) |
+
 
 </div>
 
