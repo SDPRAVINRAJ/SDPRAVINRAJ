@@ -98,6 +98,21 @@ I am passionate about designing scalable data solutions and transforming raw dat
 </div>
 
 ---
+## 🚀 Competitions
+
+<div align="center">
+
+| Competition | Project | Description | Repository |
+|---|---|---|---|
+| 💡 Data Innovation Challenge | Smart Data Pipeline | Developed an end-to-end ETL pipeline for processing and transforming large-scale datasets for analytics. | [![View Repository](https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white)](#) |
+| 🤖 AI Hackathon | AI Analytics Dashboard | Built an interactive dashboard to transform raw data into actionable insights using analytics techniques. | [![View Repository](https://img.shields.io/badge/View_Project-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](#) |
+| 📊 Data Science Challenge | Predictive Modeling Platform | Designed and evaluated machine learning workflows for predictive analytics tasks. | [![View Repository](https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white)](#) |
+| ⚙️ Technology Innovation Challenge | Smart Business Solution | Proposed a technology-driven solution focused on improving business operations and decision-making. | [![View Repository](https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white)](#) |
+
+</div>
+
+---
+
 
 ## 🎓 Coursework Repository
 
