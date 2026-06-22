@@ -194,7 +194,7 @@ Awarded the prestigious **PETRONAS Scholarship** in recognition of academic exce
 
 ### 🥇 Gold Award
 
-<img src="https://images.unsplash.com/photo-1567427018141-0584cfcbf1b8?w=800" width="700"/>
+<img src="https://github.com/SDPRAVINRAJ/img/blob/main/WhatsApp%20Image%202025-09-28%20at%2021.20.18_7e42f69c.jpg?w=80" width="700"/>
 
 **DICE 3.0 International Digital Games Competition**
 
