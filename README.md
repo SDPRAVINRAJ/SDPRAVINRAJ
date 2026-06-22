@@ -182,7 +182,7 @@ All semester coursework, assignments, lab work, and academic projects are organi
 
 ### 🎓 PETRONAS Scholar
 
-<img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800" width="700"/>
+<img src="https://github.com/SDPRAVINRAJ/img/blob/main/WhatsApp%20Image%202026-04-24%20at%209.39.43%20PM%20(2).jpeg?w=800" width="700"/>
 
 **PETRONAS Education Sponsorship Programme (PESP)**
 
