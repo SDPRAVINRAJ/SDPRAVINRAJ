@@ -176,6 +176,36 @@ All semester coursework, assignments, lab work, and academic projects are organi
 
 
 ---
+## 🏆 Awards & Recognition
+
+<div align="center">
+
+### 🎓 PETRONAS Scholar
+
+<img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800" width="700"/>
+
+**PETRONAS Education Sponsorship Programme (PESP)**
+
+Awarded the prestigious **PETRONAS Scholarship** in recognition of academic excellence, leadership potential, and commitment to professional development in Data Engineering and Technology.
+
+![PETRONAS Scholar](https://img.shields.io/badge/PETRONAS-Scholar-00A19C?style=for-the-badge)
+
+<br><br>
+
+### 🥇 Gold Award
+
+<img src="https://images.unsplash.com/photo-1567427018141-0584cfcbf1b8?w=800" width="700"/>
+
+**DICE 3.0 International Digital Games Competition**
+
+Received the **Gold Award** in the **Digital Games Category** for demonstrating innovation, creativity, teamwork, and technical excellence in solution development.
+
+![Gold Award](https://img.shields.io/badge/Award-Gold-FFD700?style=for-the-badge\&logo=trophy\&logoColor=black)
+
+</div>
+
+---
+
 
 # 📫 Contact Me
 
