@@ -123,6 +123,56 @@ All semester coursework, assignments, and lab work from my degree are organized 
 📁 Full repository: <a href="https://github.com/SDPRAVINRAJ/Courseworks">SDPRAVINRAJ/Courseworks</a>
 </p>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Highlights | Repository |
+|---|---|---|---|
+| 🇧🇷 **Brazilian Education Census ETL Pipeline** | `Apache Spark` `PySpark` `PostgreSQL` `Docker` `Metabase` | Processed a **~2.2GB census dataset**, converted raw CSV files into optimized **Parquet**, and built a **Star Schema warehouse** for analytics. | [![Repo](https://img.shields.io/badge/View_Repo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SDPRAVINRAJ/brazilian-school-census-etl-pipeline) |
+| 🌎 **US Emissions Analytics Dashboard** | `Databricks SQL` `Data Visualization` `Geospatial Analytics` | Analyzed emissions across **3,000+ US counties** using interactive dashboards to identify environmental trends. | [![Repo](https://img.shields.io/badge/View_Repo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SDPRAVINRAJ/US-Emissions-Data-Dashboard-Databricks-SQL-) |
+| 🛒 **Customer Shopping Behavior Analysis** | `MySQL` `Python` `Power BI` | Explored customer purchasing behavior and business performance through SQL analysis and interactive dashboards. | [![Repo](https://img.shields.io/badge/View_Repo-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SDPRAVINRAJ/customer_behavior_data-analysis) |
+
+</div>
+
+---
+
+## 🎓 Coursework Repository
+
+All semester coursework, assignments, lab work, and academic projects are organized by semester in a dedicated repository.
+
+<div align="center">
+
+### 📚 Browse by Semester
+
+<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem1">
+<img src="https://img.shields.io/badge/Semester_1-0F172A?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem2">
+<img src="https://img.shields.io/badge/Semester_2-1E293B?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem3">
+<img src="https://img.shields.io/badge/Semester_3-1E40AF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+<br/>
+<br/>
+<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem4">
+<img src="https://img.shields.io/badge/Semester_4-2563EB?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem5">
+<img src="https://img.shields.io/badge/Semester_5-3B82F6?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem6">
+<img src="https://img.shields.io/badge/Semester_6-60A5FA?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+[![Full Coursework Repository](https://img.shields.io/badge/📁_Full_Coursework_Repository-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SDPRAVINRAJ/Courseworks)
+
+</div>
+
 # 📚 Currently Exploring
 
 | Area | Focus |
