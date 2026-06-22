@@ -85,44 +85,6 @@ I am passionate about designing scalable data solutions and transforming raw dat
 
 </p>
 
-# 🚀 Featured Projects
-
-| Project | Technologies | Description | Repository |
-|----------|-------------|-------------|------------|
-| 🇧🇷 Brazilian Education Census ETL Pipeline | Apache Spark, PySpark, PostgreSQL, Docker, Metabase | Processed ~2.2GB census dataset, transformed raw CSV files into optimized Parquet format, and built a Star Schema warehouse for analytics and reporting | [📂](https://github.com/SDPRAVINRAJ/brazilian-school-census-etl-pipeline) |
-| 🌎 US Emissions Analytics Dashboard | Databricks SQL, Data Visualization | Analyzed emissions data across 3,000+ US counties using geospatial analytics and interactive dashboards to identify environmental trends | [📂](https://github.com/SDPRAVINRAJ/US-Emissions-Data-Dashboard-Databricks-SQL-) |
-| 🛒 Customer Shopping Behavior Analysis | MySQL, Python, Power BI | Explored customer purchasing patterns and business performance through SQL analytics and interactive dashboards | [📂](https://github.com/SDPRAVINRAJ/customer_behavior_data-analysis) |
-
----
-
-🎓 Coursework
-
-All semester coursework, assignments, and lab work from my degree are organized by semester in a dedicated repository. Click a semester to browse the corresponding folder directly.
-
-<p align="center">
-<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem1">
-<img src="https://img.shields.io/badge/Semester_1-0F172A?style=for-the-badge"/>
-</a>
-<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem2">
-<img src="https://img.shields.io/badge/Semester_2-1E293B?style=for-the-badge"/>
-</a>
-<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem3">
-<img src="https://img.shields.io/badge/Semester_3-1E3A8A?style=for-the-badge"/>
-</a>
-<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem4">
-<img src="https://img.shields.io/badge/Semester_4-1D4ED8?style=for-the-badge"/>
-</a>
-<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem5">
-<img src="https://img.shields.io/badge/Semester_5-2563EB?style=for-the-badge"/>
-</a>
-<a href="https://github.com/SDPRAVINRAJ/Courseworks/tree/main/sem6">
-<img src="https://img.shields.io/badge/Semester_6-3B82F6?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">
-📁 Full repository: <a href="https://github.com/SDPRAVINRAJ/Courseworks">SDPRAVINRAJ/Courseworks</a>
-</p>
-
 ## 🚀 Featured Projects
 
 <div align="center">
