@@ -11,14 +11,21 @@
 </h3>
 
 ---
-<p align="center">
-  <a href="https://sdpravinraj.github.io/Courseworks/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_My_E--Portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://github.com/SDPRAVINRAJ/Courseworks" target="_blank">
-    <img src="https://img.shields.io/badge/📁_Coursework_Repository-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+## 🌐 My Professional E-Portfolio
+
+<a href="https://sdpravinraj.github.io/Courseworks/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Visit_My_E--Portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
+<br><br>
+
+> Explore my projects, technical skills, certifications, achievements, and academic journey in one place.
+
+</div>
+
+---
 
 # 💡 About Me
 
