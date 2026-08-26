@@ -184,9 +184,11 @@ All semester coursework, assignments, lab work, and academic projects are organi
 | Certification | Provider |
 |--------------|----------|
 | Azure Data Fundamentals (DP-900) | Microsoft |
+| Google Advanced Data Analytics | Google |
 | Alteryx Designer Core Certification | Alteryx |
 | AWS Cloud Foundations | Amazon Web Services |
 | AWS Cloud Developing | Amazon Web Services |
+| AWS Cloud Data Pipeline Builder | Amazon Web Services |
 | Data Centre Foundation Training | Skill2Work |
 | SAP Analytics and SAP Builds Apps Training Session | SAP |
 
